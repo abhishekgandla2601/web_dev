@@ -1,0 +1,24 @@
+#container{
+    border: 2px solid;
+}
+#container +p{
+    background-color: blue;
+}
+
+/* 
+descendant combinator
+#container p{ 
+    background-color: blue;
+}
+    child combinator
+#container >p{ 
+    background-color: blue;
+}
+    general sibling combinator
+#container ~p{
+    background-color: blue;
+}
+    adjacent sibling combinator
+#container +p{
+    background-color: blue;
+} */

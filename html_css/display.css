@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    /* visibility: hidden;  it hides the block that is created*/
+}
+
+span{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}

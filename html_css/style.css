@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+/* selection of id attribute */
+#p1{
+    color: red;
+}
+
+#p2{
+    color:greenyellow;
+}
+
+#p3{
+    color: blue;
+}
+
+#p4{
+    color: orange;
+}
+
+/* selection of class attribute */
+.even{
+    color: tomato;
+}
+
+.odd{
+    color: blueviolet;
+}

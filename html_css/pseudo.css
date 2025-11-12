@@ -1,0 +1,41 @@
+/* a:link{
+    color: rgb(82, 134, 233);
+}
+
+a:hover{
+    color: rgb(82, 134, 233);
+    
+}
+
+a:active{
+    color: blue;
+    font-size: 1.1em;
+}
+
+a:visited{
+    color: black;
+} */
+
+/* 
+li:hover{
+    background-color: yellow;
+}
+
+li:not(:hover){
+    background-color: lightslategrey;
+}
+
+/* in the bracket add a nunber, we can also use odd and even as well 4n+2,  */
+/* li:nth-child(){
+    background-color: rgb(241, 241, 98);
+} */
+
+#greeting p{
+    background-color: rgb(116, 116, 244);
+    padding: 10px;
+    display: none;
+}
+
+#greeting:hover p{
+    display: block;
+}
